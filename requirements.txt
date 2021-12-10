@@ -1,3 +1,5 @@
 pytest==6.2.5
 selenium==4.0.0
-в pycharm в файле requirements можем ввести название selenium и его сразу обновить до рабочей версии. 
+в pycharm в файле requirements можем ввести название selenium и его сразу обновить до рабочей версии.
+selenium скачаваем для версии браузера
+ 
